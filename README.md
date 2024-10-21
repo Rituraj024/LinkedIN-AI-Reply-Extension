@@ -2,4 +2,5 @@
 
 Demo video: 
 
-[Video.zip](https://github.com/user-attachments/files/17451721/Video.zip)
+https://github.com/user-attachments/assets/29ce47f6-10f4-4e0a-b453-e58bdf6ed934
+
